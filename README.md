@@ -1,0 +1,1 @@
+sudo setcap 'CAP_NET_RAW+eip CAP_NET_ADMIN+eip' "/home/david.martins/go/bin/pcap" >> set pcap capabilities so the program can read from the internet devices
